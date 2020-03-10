@@ -1,0 +1,15 @@
+Package: seagoeR
+Title: Leverages the SeaVision API
+Version: 0.0.0.9000
+Authors@R: c( 
+            person(given = "Christopher",
+                   family = "Callaghan",
+                   role = c("aut", "cre"),
+                   email = "cjcallag@nps.edu"))
+Description: A series of R tools for working with the SeaVision API.
+License: GPL-2 | file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
+Imports:
+    httr
